@@ -24,11 +24,11 @@ SSD1306 OLED Display:
 1. Export the stl files of the arduino case to a preferred slicer and 3D print all stl file.
 2. Take the arduino case and gently place the arduino within the case and put on the protective cover.
 4. Use a wire stripper to remove the ruber at the end of insulated wires and then solder the wires to the pins of the MAX30102 sensor.
-5. place shrink tubing on the connections and use a heat gun to shrink it and to protect the connections.
-6. gently place the MAX30102 sensor in its case and run the wire through the top of the case and run it back to the arduino connecting it to the specific points listed in the [wiring guide](#wiring-guide).
+5. Place shrink tubing on the connections and use a heat gun to shrink it and to protect the connections.
+6. Gently place the MAX30102 sensor in its case and run the wire through the top of the case and run it back to the arduino connecting it to the specific points listed in the [wiring guide](#wiring-guide).
 7. Use the same method to solder insulated whires to the thermistor and run the wires through the bottom of the auduino case making sure the tip of the thermistor is the only thing poking out underneath the case.
 8. Connect the thermistor wires to the arduino board as seen in the [wiring guide](#wiring-guide), soldering connections if 2 wires need to be plugged into the same port on the arduino.
-9. gently push the 3D printed pins in the arduino hole and weld the side of the pin that is not touching the arduino to the arduino case using a soldering iron to keep the arduino in place.
+9. Gently push the 3D printed pins in the arduino hole and weld the side of the pin that is not touching the arduino to the arduino case using a soldering iron to keep the arduino in place.
 10. Put the SSD1306 OLED screen on the lid of the arduino case using double sided tape, ensuring a secure and tight fit.
 11. Solder insulated wire to the SSD1306 and connect it back to the arduino according to the [wiring guide](#wiring-guide), soldering if nescessary.
 12. Place the lid of the arduino casing on the arduino, clipping them together to ensure a tight fit..
