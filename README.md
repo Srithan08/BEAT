@@ -11,11 +11,11 @@ MAX30102 Sensor:
 - SCL → A5
 
 Thermistor:
-- One leg → A0
+- One leg → A0 on Arduino
 - Other leg → 10k resistor to GND and also to 5V (voltage divider)
 
 SSD1306 OLED Display:
-- VCC → 3.3V
+- VCC → 3.3V on Arduino
 - GND → GND
 - SDA → A4
 - SCL → A5
